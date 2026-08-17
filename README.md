@@ -2,9 +2,9 @@
 
 ## 1. Project Name
 
-**Bitcoin Volatility and Hedging Effectiveness under Global Uncertainty: A Structural-Break DCC-MIDAS-X Approach**
+* **Bitcoin Volatility and Hedging Effectiveness under Global Uncertainty: A Structural-Break DCC-MIDAS-X Approach**
 
-**Evaluation Score: Excellent**
+* **Evaluation Score: Excellent**
 
 ## 2. Domain
 
