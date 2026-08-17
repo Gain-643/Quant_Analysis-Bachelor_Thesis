@@ -27,11 +27,7 @@ Academic Supervisor: **Lê Trung Thành, PhD**
 
 ## 5. Scope of Work
 
-* Model Bitcoin volatility and dynamic correlations with:
-
-  * MSCI World
-  * S&P GSCI
-  * PIMCO Investment Grade Corporate Bond Index
+* Model Bitcoin volatility and dynamic correlations with: MSCI World, S&P GSCI, PIMCO Investment Grade Corporate Bond Index
 * Examine the effect of **Global Economic Policy Uncertainty (GEPU)**.
 * Develop **GARCH-MIDAS-X** and **DCC-MIDAS-X** models with structural breaks.
 * Construct time-varying **Optimal Hedge Ratios (OHR)**.
