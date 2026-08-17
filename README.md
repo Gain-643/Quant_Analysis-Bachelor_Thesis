@@ -78,7 +78,7 @@ Sample: Oct 2016 – Dec 2025
 
 ## Prerequisites
 
-* **R 4.5.x**
+* R 4.5.x
 * Statistics & Probability
 * Financial Econometrics
 * Time-Series Analysis
