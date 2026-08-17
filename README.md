@@ -47,7 +47,7 @@ Sample: Oct 2016 – Dec 2025
 
 ## 7. Outcome
 
-* Identified **three GEPU structural breaks**: May 2019, Jan 2021 and Jul 2024.
+* Identified three GEPU structural breaks: May 2019, Jan 2021 and Jul 2024.
 * Bitcoin's relationship with traditional assets is asset-specific and regime-dependent.
 * Structural-break models consistently improve model fit.
 * Full DCC-MIDAS-X + Structural Break model achieves the highest hedging effectiveness:
