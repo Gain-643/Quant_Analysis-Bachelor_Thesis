@@ -23,7 +23,7 @@ Academic Supervisor: **Lê Trung Thành, PhD**
 
 ## 4. Timeline
 
-**Mar 2026 – Jun 2026**
+Mar – Jun 2026
 
 ## 5. Scope of Work
 
